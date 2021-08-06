@@ -2,12 +2,12 @@ import React from 'react';
 import styled from '@emotion/styled';
 
 const ContenedorHeader = styled.header`
-        background-color: #c273da;
-        padding: 30px;
-        font-weight: bold;
-        color: #ffffff;
-        margin-top: 2rem;
-`
+  background-color: #11989c;
+  padding: 30px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-top: 2rem;
+`;
 
 const TextoHeader = styled.h1`
         font-size: 2rem;

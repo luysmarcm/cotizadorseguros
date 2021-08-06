@@ -3,8 +3,8 @@ html {
 }
 body {
   background: #6c1188;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #904e95, #c244f3);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #904e95, #a518dd); 
+  background: -webkit-linear-gradient(to right, #50afaa, #66faff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #53cab0, #18a5dd); 
   font-family: 'Work Sans', sans-serif;
 }
 ul {

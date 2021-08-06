@@ -4,11 +4,11 @@ import {primerMayuscula} from '../helper';
 
 
 const ContenedorResumen = styled.div`
-    padding: 1rem;
-    text-align: center;
-    background-color: #904e95;
-    color: #FFF;
-    margin-top: 1rem;
+  padding: 1rem;
+  text-align: center;
+  background-color: #50afaa;
+  color: #fff;
+  margin-top: 1rem;
 `;
 
 
