@@ -105,7 +105,7 @@ const Formulario = ({ setResumen, setCargando }) => {
       {error ? <Error> Todos los datos son obligatorios</Error> : null}
 
       <Campo>
-        <Label>Marca</Label>
+        <Label>MARCA</Label>
         <Select name="marca" value={marca} onChange={obtenerDatos}>
           <option value="">-- Seleccione --</option>
           <option value="americano">Americano</option>
@@ -115,7 +115,7 @@ const Formulario = ({ setResumen, setCargando }) => {
       </Campo>
 
       <Campo>
-        <Label>Año</Label>
+        <Label>AÑO</Label>
         <Select name="year" value={year} onChange={obtenerDatos}>
           <option value="">-- Seleccione --</option>
           <option value="2021">2021</option>
