@@ -132,7 +132,7 @@ const Formulario = ({ setResumen, setCargando }) => {
       </Campo>
 
       <Campo>
-        <Label>Plan</Label>
+        <Label>PLAN</Label>
         <InputRadio
           type="radio"
           name="plan"
