@@ -21,7 +21,7 @@ const ResultadoCotizacion = styled.div`
 
 const Resultado = ({ cotizacion }) => {
   return cotizacion === 0 ? (
-    <Mensaje>Elige marca, año y tipo de seguro</Mensaje>
+    <Mensaje>ELIGUE MARCAR, AÑO Y TIPO DE SEGURO</Mensaje>
   ) : (
     <ResultadoCotizacion>El total es: ${cotizacion} </ResultadoCotizacion>
   );
